@@ -26,8 +26,8 @@ header.split.institucionalpage{
     color: #04702a;
     background-color: #ffffff99;
     text-align: center;
-    width: 100%;
-    padding: 1rem 0rem;
+    max-width: 650px;
+    padding: 1rem 0.5rem;
 }
 h2.infostitulo {
     font-size: 1.5rem;
